@@ -1,0 +1,15 @@
+{
+  "name": "create-jmovie",
+  "description": "y",
+  "version": "0.0.0",
+  "author": "Jian Liu",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0"
+  },
+  "license": "MIT"
+}
